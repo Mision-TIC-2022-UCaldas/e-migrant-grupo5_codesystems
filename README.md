@@ -6,3 +6,4 @@ Joel Rodriguez
 Jean Carlo Goyeneche
 Johan Stiven Hernandez
 Cristian Barraza
+Angélica Arrieta
