@@ -1,0 +1,83 @@
+﻿@page
+@model Hackaton.App.Frontend.Pages.EdCrMigrantesModel
+@{
+}
+
+<h1>Ingreso datos Migrante</h1>
+
+<form method="post">
+    <div class="form-group" style="display: none;">
+        <label asp-for="migrantes1.id">Id:</label>
+        <input asp-for="migrantes1.id"  class="form-control"/>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="migrantes1.Nombres">Nombres:</label>
+        <input asp-for="migrantes1.Nombres" required="required" class="form-control"/>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="migrantes1.Apellidos">Apellidos:</label>
+        <input asp-for="migrantes1.Apellidos" required="required" class="form-control"/>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="migrantes1.TipoDocumento">Tipo de Documento:</label>
+        <select asp-for="migrantes1.TipoDocumento" required="required" class="form-control">
+			<option value="" selected disabled>Seleccione la Opción</option>
+            <option value="0">Registro Civil</option>
+            <option value="1">Cedula de Ciudadania</option>
+            <option value="2">Cedula de Extranjeria</option>
+            <option value="3">Pasaporte</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="migrantes1.NumeroDocumento">Numero:</label>
+        <input asp-for="migrantes1.NumeroDocumento" required="required" class="form-control"/>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="migrantes1.PaisOrigen">Pais de Origen:</label>
+        <input asp-for="migrantes1.PaisOrigen" required="required" class="form-control"/>
+    </div>
+    <div class="form-group">
+        <label asp-for="migrantes1.FechaNacimiento">Fecha de Nacimiento:</label>
+        <input asp-for="migrantes1.FechaNacimiento" required="required" class="form-control"/>
+    </div>
+    <div class="form-group">
+        <label asp-for="migrantes1.Correo">Correo Electronico:</label>
+        <input asp-for="migrantes1.Correo" required="required" class="form-control"/>
+    </div>
+    <div class="form-group">
+        <label asp-for="migrantes1.NumeroTelefono">Numero de Telefono:</label>
+        <input asp-for="migrantes1.NumeroTelefono" required="required" class="form-control"/>
+    </div>
+    <div class="form-group">
+        <label asp-for="migrantes1.Direccion">Direccion:</label>
+        <input asp-for="migrantes1.Direccion" required="required" class="form-control"/>
+    </div>
+    <div class="form-group">
+        <label asp-for="migrantes1.Ciudad">Ciudad:</label>
+        <input asp-for="migrantes1.Ciudad" required="required" class="form-control"/>
+    </div>
+    <div class="form-group">
+        <label asp-for="migrantes1.SituacionLaboral">Situacion Laboral:</label>
+        <input asp-for="migrantes1.SituacionLaboral" required="required" class="form-control"/>
+        <span ></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary" onclick="firstExample()">Guardar</button>
+
+</form>
+
+<a asp-page="./ListarMigrantes" class="btn-default">Lista de Migrantes</a>
+
+<!--<script type="text/javascript">
+    function Crear()
+    {
+        alert('Se ha registrado exitosamente!');
+    }
+</script>-->
+
+<!--onclick="Crear()"-->

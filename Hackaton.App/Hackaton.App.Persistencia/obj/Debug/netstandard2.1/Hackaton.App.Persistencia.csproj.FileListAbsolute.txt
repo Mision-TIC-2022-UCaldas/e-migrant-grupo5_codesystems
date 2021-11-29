@@ -1,0 +1,11 @@
+C:\ProyectoHackaton\Hackaton.App\Hackaton.App.Persistencia\bin\Debug\netstandard2.1\Hackaton.App.Persistencia.deps.json
+C:\ProyectoHackaton\Hackaton.App\Hackaton.App.Persistencia\bin\Debug\netstandard2.1\Hackaton.App.Persistencia.dll
+C:\ProyectoHackaton\Hackaton.App\Hackaton.App.Persistencia\bin\Debug\netstandard2.1\Hackaton.App.Persistencia.pdb
+C:\ProyectoHackaton\Hackaton.App\Hackaton.App.Persistencia\bin\Debug\netstandard2.1\Hackaton.App.Dominio.dll
+C:\ProyectoHackaton\Hackaton.App\Hackaton.App.Persistencia\bin\Debug\netstandard2.1\Hackaton.App.Dominio.pdb
+C:\ProyectoHackaton\Hackaton.App\Hackaton.App.Persistencia\obj\Debug\netstandard2.1\Hackaton.App.Persistencia.csprojAssemblyReference.cache
+C:\ProyectoHackaton\Hackaton.App\Hackaton.App.Persistencia\obj\Debug\netstandard2.1\Hackaton.App.Persistencia.AssemblyInfoInputs.cache
+C:\ProyectoHackaton\Hackaton.App\Hackaton.App.Persistencia\obj\Debug\netstandard2.1\Hackaton.App.Persistencia.AssemblyInfo.cs
+C:\ProyectoHackaton\Hackaton.App\Hackaton.App.Persistencia\obj\Debug\netstandard2.1\Hackaton.App.Persistencia.csproj.CopyComplete
+C:\ProyectoHackaton\Hackaton.App\Hackaton.App.Persistencia\obj\Debug\netstandard2.1\Hackaton.App.Persistencia.dll
+C:\ProyectoHackaton\Hackaton.App\Hackaton.App.Persistencia\obj\Debug\netstandard2.1\Hackaton.App.Persistencia.pdb

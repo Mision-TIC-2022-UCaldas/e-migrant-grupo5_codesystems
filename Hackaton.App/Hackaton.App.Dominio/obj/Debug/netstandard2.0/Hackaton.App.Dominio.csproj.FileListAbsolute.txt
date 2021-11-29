@@ -1,0 +1,8 @@
+C:\ProyectoHackaton\Hackaton.App\Hackaton.App.Dominio\bin\Debug\netstandard2.0\Hackaton.App.Dominio.deps.json
+C:\ProyectoHackaton\Hackaton.App\Hackaton.App.Dominio\bin\Debug\netstandard2.0\Hackaton.App.Dominio.dll
+C:\ProyectoHackaton\Hackaton.App\Hackaton.App.Dominio\bin\Debug\netstandard2.0\Hackaton.App.Dominio.pdb
+C:\ProyectoHackaton\Hackaton.App\Hackaton.App.Dominio\obj\Debug\netstandard2.0\Hackaton.App.Dominio.csprojAssemblyReference.cache
+C:\ProyectoHackaton\Hackaton.App\Hackaton.App.Dominio\obj\Debug\netstandard2.0\Hackaton.App.Dominio.AssemblyInfoInputs.cache
+C:\ProyectoHackaton\Hackaton.App\Hackaton.App.Dominio\obj\Debug\netstandard2.0\Hackaton.App.Dominio.AssemblyInfo.cs
+C:\ProyectoHackaton\Hackaton.App\Hackaton.App.Dominio\obj\Debug\netstandard2.0\Hackaton.App.Dominio.dll
+C:\ProyectoHackaton\Hackaton.App\Hackaton.App.Dominio\obj\Debug\netstandard2.0\Hackaton.App.Dominio.pdb
