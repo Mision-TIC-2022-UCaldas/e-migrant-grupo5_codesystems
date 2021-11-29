@@ -1,0 +1,51 @@
+@page
+@model loginModel
+@{
+    ViewData["Title"] = "Registrarse";
+}
+<link rel="stylesheet" href="~/css/login.css" />
+<link rel="stylesheet" href="~/css/site.css" />
+<link rel="funcion" href="~/js/site.js" />
+<div class="text-center">
+    <h1 class="display-4">Welcome E-migrant</h1>
+
+<div class="form-structor">
+	<div class="signup">
+		<h2 class="form-title" id="signup"><span>or</span>Registrate</h2>
+		<div class="form-holder">
+			<input type="text" class="input" placeholder="nombre" required="Obligatorio" />
+			<input type="apellidos" class="input" placeholder="Apellidos" required="Obligatorio" />
+            <input type="tipo de documento" class="input" placeholder="tipo de documento de identidad" required="Obligatorio" />
+			<input type="N_identificacion" class="input" placeholder="numero de identificacion de identidad" required="Obligatorio" />
+            <input type="pais de origen" class="input" placeholder="pais de origen" required="Obligatorio" />
+            <input type="fecha de nacimiento" class="input" placeholder="fecha de nacimiento" required="Obligatorio" />
+            <input type="telefono" class="input" placeholder="telefono" required="Obligatorio" />
+            <input type="email" class="input" placeholder="email" required="Obligatorio" />
+            <input type="direccion" class="input" placeholder="direccion" required="Obligatorio" />
+            <input type="ciudad" class="input" placeholder="Ciudad" required="Obligatorio" />
+            <input type="situacion laboral" class="input" placeholder="situacion laboral" required="Obligatorio" />
+            <input type="user" class="input" placeholder="nombre de usuario" required="Obligatorio" />
+            <input type="Contraseña" class="input" placeholder="Contraseña" required="Obligatorio" />
+
+
+		</div>
+		<button class="submit-btn">Registrarse</button>
+	</div>
+	<div class="login slide-up">
+		<div class="center">
+			<h2 class="form-title" id="login"><span>or</span>Iniciar sesion</h2>
+			<div class="form-holder">
+				<input type="email" class="input" placeholder="Email" />
+				<input type="password" class="input" placeholder="Password" />
+			</div>
+			<button class="submit-btn">Iniciar sesion</button>
+		</div>
+	</div>
+</div>
+
+
+<footer class="border-top footer text-muted">
+   <div class="container">
+       &copy; 2021 - E-migrant - <a asp-area="" asp-page="/Privacy">Privacy</a>
+  </div>
+</footer>
